@@ -19,7 +19,7 @@ This repository demonstrates how to construct, optimize, and execute quantum cir
 
 1. Clone this repository:
    ```sh
-   git clone <repo-url>
+   git clone https://github.com/oliviafjardine/hello-world-qiskit.git
    cd cwq
    ```
 2. Install dependencies (see `installation.ipynb` for details):
