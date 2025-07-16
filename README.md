@@ -3,7 +3,7 @@
 This repository demonstrates how to construct, optimize, and execute quantum circuits using Qiskit and IBM Quantum backends. It includes step-by-step Jupyter notebooks for both a simple 2-qubit Bell state and an extended $n$-qubit GHZ state, with post-processing and visualization of results.
 
 <p align="center">
-  <img src="preview.jpg" width="70%" alt="Preview image">
+  <img src="preview.jpg" width="100%" alt="Preview image">
 </p>
 
 ## Contents
